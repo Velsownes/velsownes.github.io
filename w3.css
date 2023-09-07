@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(rgb(136, 83, 2),rgb(126, 93, 5));
+    height: 100vh;
+}
+
+.box{
+    background-color: black;
+    width: 550px;
+    height: 320px;
+    margin: auto;
+    position: relative;
+    top: 25%;
+    border-radius: 20px;
+   
+}
+
+.para{
+    color: rgb(255, 197, 197);
+    font-size: 12px;
+   padding: 50px;
+   margin: 10px;
+}
+
+a:link, a:visited{
+background-color: green;
+color: white;
+text-align: center;
+text-decoration: 0;
+padding: 12px;
+border-radius: 20px;
+font-size: 13px;
+position: relative;
+top: 10vh;
+left: 10%;
+}
+
+.logo img{
+    border-radius: 50%;
+    font-size: 20px;
+    position: relative;
+  left: 70%;
+   top: 50px;
+}
